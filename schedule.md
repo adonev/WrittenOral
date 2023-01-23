@@ -1,14 +1,14 @@
 # Site Map
-* [Course Overview](https://modelingsimulation.github.io/TeachingWriting2020/)
+* [Course Overview](https://adonev.github.io/WrittenOral/)
 * [Course Schedule](schedule.md)
 * [Resources](resources.md) 
 
 # Course Schedule
-Wednesdays 1:25-3:15pm in WWH 512
+TBD, fill out google survey ASAP
 
 See the [Resources Page](resources.md) for links to the references. 
 
-Hand in writing homework by email to mch328+homework at nyu, on the Tuesday before the class for which it is listed as homework. 
+Hand in writing homework by email to donev at cims, on the day (but before the class) for which it is listed as homework. 
 
 Jump to the resources for a particular date:
 * [Jan 29](#january-29),

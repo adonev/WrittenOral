@@ -1,5 +1,5 @@
 ## Site Map
-* [Course Overview](https://modelingsimulation.github.io/TeachingWriting2020/)
+* [Course Overview](https://adonev.github.io/WrittenOral/)
 * [Course Schedule](schedule.md)
 * [Resources](resources.md) 
 
@@ -21,15 +21,14 @@
 ## Writing 
 
 ### Strongly Recommended
-* _Style: Lessons in Clarity and Grace,_ by Joseph M. Williams and Joseph Bizup. 12th Ed.   
-This will be the main reference for the writing portion of the course. We highly recommend you purchase a copy yourself, both so you can learn in more depth the topics we discuss in class, and because you will want to refer to this text over and over in the future. However, you will be able to follow the course even if you don’t purchase it. Earlier editions are acceptable. 
+* _Stylish Academic Writing,_ by Helen Sword.   
+This book is what I will base class on, to give you techniques to write elegantly and stylishly. It is an easy, fun read. Available [online](https://getit.library.nyu.edu/go/9442159) with an NYU connection. You can read it at your own time. 
 
 ### Other Resources
 * _The Elements of Style,_ by Strunk and White.   
-
 A classic style manual, and a good way to revise English grammar. Freely available from a number of sources including [Project Gutenberg](http://www.gutenberg.org/ebooks/37134).
-* _Stylish Academic Writing,_ by Helen Sword.   
-This book goes beyond what we will cover in class, to give you techniques to write elegantly and stylishly. It is an easy, fun read. Available [online](https://getit.library.nyu.edu/go/9442159) with an NYU connection.
+* _Style: Lessons in Clarity and Grace,_ by Joseph M. Williams and Joseph Bizup. 12th Ed.   
+Recommended because you will want to refer to this text over and over in the future.
 * _Handbook of Writing for the Mathematical Sciences,_ by Nicholas J. Higham.   
 Available [online](https://epubs.siam.org/doi/book/10.1137/1.9780898719550) at with an NYU connection. 
 * _The Sense of Style,_ by Steven Pinker.  
