@@ -1,5 +1,3 @@
-<!-- Header image contains course title "Communication in Mathematics: Teaching, Writing, and Oral Presentation" -->
-
 ## Site Map
 * [Course Overview](https://adonev.github.io/WrittenOral/)
     * [Course Information](#course-overview)
