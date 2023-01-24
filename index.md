@@ -7,7 +7,7 @@
 * [Course Schedule](schedule.md)
 * [Resources](resources.md) 
 
-# Course Overview
+# Course Overview (MATH-GA 2420.012)
 
 To see materials from prior years this seminar has been taught as a full course (it used to include teaching as well as writing), see pages for [Spring 2018](https://cims.nyu.edu/~donev/Teaching/WrittenOral/#student-papers) and [Spring 2020](https://modelingsimulation.github.io/TeachingWriting2020/#final-reports).
 
