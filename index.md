@@ -12,7 +12,7 @@
 To see materials from prior years this seminar has been taught as a full course (it used to include teaching as well as writing), see pages for [Spring 2018](https://cims.nyu.edu/~donev/Teaching/WrittenOral/#student-papers) and [Spring 2020](https://modelingsimulation.github.io/TeachingWriting2020/#final-reports).
 
 ## Class Meetings
-Wednesdays 1:25-3:15pm in WWH 512
+Wednesdays 10-11am in WWH 1314
 
 ## Instructor
 Aleksandar "Aleks" Donev (he/they), 1016 CIWW, [donev@cims.nyu.edu](mailto:donev@cims.nyu.edu)

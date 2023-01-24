@@ -5,20 +5,9 @@
 
 # Resources
 
-## Teaching
-* [MAA Instructional Practices Guide](https://www.maa.org/programs-and-communities/curriculum%20resources/instructional-practices-guide)
-* Friedberg et al. 2001. _Teaching Mathematics in Colleges and Universities: Case Studies for Today's Classroom_. Conference Board of the Mathematical Sciences Issues in Mathematics Education. [Excerpts on Google Drive](https://drive.google.com/open?id=10PowvDuouebK3-Yy14tKuwalU43SsTCx)
-* Nilson, Linda Burzotta. 2016. _Teaching at its Best : A Research-Based Resource for College Instructors_. Somerset: Wiley. [NYU Library Access](http://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph005975219)
-* _An introduction to Evidence-Based Undergraduate STEM Teaching_ MOOC [stemteaching.org](http://stemteachingcourse.org/)
+Articles will be linked under each "lecture."
 
-### Course materials sources
-* Barnes, Julie, and Jessica M. Libertini. (2018) _Tactile learning activities in mathematics: a recipe book for the undergraduate classroom_. Providence, RI: [MAA Press](https://bookstore.ams.org/clrm-54). (Prof. Clarkson has a copy.)
-* Boulder/Omaha Active Learning Alliance [Active Learning Materials for Calculus](http://math.colorado.edu/activecalc/)
-* Rasmussen, C., Keene, K. A., Dunmyre, J., & Fortune, N. (2018). Inquiry oriented differential equations: Course materials. Available at [https://iode.wordpress.ncsu.edu](https://iode.wordpress.ncsu.edu).
-* Shaw, Doug. 2013. _Instructors Guide for Stewart's Essential Calculus ET 2e_. Cengage Learning. [On Google Drive](https://drive.google.com/file/d/1SgmOGsaZqava2oorS14kGDh5j95TLKfW/view?usp=sharing)
-* Wawro, M., Zandieh, M., Rasmussen, C., & Andrews-Larson, C. (2013). Inquiry oriented linear algebra: Course materials. Available at [http://iola.math.vt.edu](http://iola.math.vt.edu). 
-
-## Writing 
+## Books
 
 ### Strongly Recommended
 * _Stylish Academic Writing,_ by Helen Sword.   
@@ -33,5 +22,11 @@ Recommended because you will want to refer to this text over and over in the fut
 Available [online](https://epubs.siam.org/doi/book/10.1137/1.9780898719550) at with an NYU connection. 
 * _The Sense of Style,_ by Steven Pinker.  
 This lovely book gives many entertaining examples of good and bad writing, and shows the cognitive science behind what makes prose easier or harder to understand. 
+
+## Tools
+
+Each of you will be required to write a set of "lecture notes" in LaTex. It is essential that you setup a working [LaTex environment](https://www.tug.org/texlive) (for OS X use [MACTex](http://www.tug.org/mactex/) and consider installing [homebrew](https://brew.sh/)) on the computing system you wish to use for this course (the Linux-based CIMS networked computers have everything you need and more). First-time LaTex users (but also others!) should consider using the WYSIWYG Latex frontend / word processor [LyX](http://www.lyx.org/) to start. Students that prefer to work directly with LaTex should take a look at some latex-specific editors, such as the free and portable [TeXMaker](http://www.xm1math.net/texmaker/index.html) (installed on Courant's linux network). More experienced users could use a programming editor that is latex-aware, such as [atom-latex](https://atom.io/packages/latex) or [LaTeXTools-sublime](https://latextools.readthedocs.io/en/latest/).
+ If you want to make presentations in PowerPoint or keynote and include equations, try [LatexIt](https://www.chachatelier.fr/latexit/) (comes with MACTex on OS X systems).
+ To co-edit and comment on this as a group, we will use [Overleaf](https://www.overleaf.com/), and/or maybe [github](https://github.com/)+TeX editor of choice.
 
 
