@@ -22,8 +22,8 @@ Writing a talk is covered in Chapter 9 in the textbook by Higham. Also look at t
 
 ### Pre-class materials
 
-1.  A short video lesson ["How Big is Infinity?](https://www.youtube.com/watch?v=NYKcOFQCeno)" by TedEd.
-2.  A lecture on TED on the ["Mathematics of origami](https://www.youtube.com/watch?v=NYKcOFQCeno). Watch on your own and comment in class.
+1.  A short video lesson [How Big is Infinity?](https://www.youtube.com/watch?v=UPA3bwVVzGI)" by TedEd.
+2.  A 20-min lecture on TED on the [Mathematics of origami](https://www.youtube.com/watch?v=NYKcOFQCeno). Watch on your own and comment in class.
 3.  A mathematical conference lecture on a very technical topic of [Operads](https://www.youtube.com/watch?v=ZquD_VRDFoU) (algebraic geometry).
 4.  A [5 minute talk on the rise of multicellular life](https://www.youtube.com/watch?v=jVGHr6MHapo) related to the [David Attenborough style](Resources/David-Attenborough.pdf).
 
