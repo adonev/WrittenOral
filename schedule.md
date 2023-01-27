@@ -1,3 +1,8 @@
+---
+title: Schedule for Communication in the mathematical sciences (Aleks Donev, Spring 2023, Courant)
+layout: default
+---
+
 ## Site Map
 * [Course Overview](https://adonev.github.io/WrittenOral/)
 * [Course Schedule](schedule.md)

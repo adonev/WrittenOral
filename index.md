@@ -1,3 +1,8 @@
+---
+title: Communication in the mathematical sciences (Aleks Donev, Spring 2023, Courant)
+layout: default
+---
+
 ## Site Map
 * [Course Overview](https://adonev.github.io/WrittenOral/)
     * [Course Information](#course-overview)
