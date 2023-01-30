@@ -27,6 +27,10 @@ Writing a talk is covered in Chapter 9 in the textbook by Higham. Also look at t
 3.  A mathematical conference lecture on a very technical topic of [Operads](https://www.youtube.com/watch?v=ZquD_VRDFoU) (algebraic geometry).
 4.  A [5 minute talk on the rise of multicellular life](https://www.youtube.com/watch?v=jVGHr6MHapo) related to the [David Attenborough style](Resources/David-Attenborough.pdf).
 
+### Post-class materials
+
+As an alternative to my lecture, see this talk by [Uri Alon](https://www.weizmann.ac.il/mcb/UriAlon/): [part I](https://www.youtube.com/watch?v=5OFAhBw0OXs) (the fire alarm will remind you of Courant...), [part II](https://www.youtube.com/watch?v=Fg_Bn8k0uaQ), [part III](https://www.youtube.com/watch?v=zYsHxNiPg7M), [part IV](https://www.youtube.com/watch?v=OhnSSjQCm4c), [part V](https://www.youtube.com/watch?v=FYkdzZgCX4M), [part VI](https://www.youtube.com/watch?v=y-fhwNa7fnQ).
+
 ### Elevator statements
 
 Elevator "talks" are discussed on page 154 in Chapter 13 (The Big Picture) of the book Stylish Academic Writing. Here is what Sword has to say about it:
