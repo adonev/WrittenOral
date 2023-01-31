@@ -29,7 +29,7 @@ Writing a talk is covered in Chapter 9 in the textbook by Higham. Also look at t
 
 ### Post-class materials
 
-As an alternative to my lecture, see this talk by [Uri Alon](https://www.weizmann.ac.il/mcb/UriAlon/): [part I](https://www.youtube.com/watch?v=5OFAhBw0OXs) (the fire alarm will remind you of Courant...), [part II](https://www.youtube.com/watch?v=Fg_Bn8k0uaQ), [part III](https://www.youtube.com/watch?v=zYsHxNiPg7M), [part IV](https://www.youtube.com/watch?v=OhnSSjQCm4c), [part V](https://www.youtube.com/watch?v=FYkdzZgCX4M), [part VI](https://www.youtube.com/watch?v=y-fhwNa7fnQ).
+As an alternative to my lecture, see this talk by [Uri Alon](https://www.weizmann.ac.il/mcb/UriAlon/): [part I](https://www.youtube.com/watch?v=5OFAhBw0OXs) (the fire alarm will remind you of Courant...), [part II](https://www.youtube.com/watch?v=Fg_Bn8k0uaQ), [part III](https://www.youtube.com/watch?v=zYsHxNiPg7M), [part IV](https://www.youtube.com/watch?v=OhnSSjQCm4c), [part V](https://www.youtube.com/watch?v=FYkdzZgCX4M), [part VI](https://www.youtube.com/watch?v=y-fhwNa7fnQ). There is also an associated article ["How to give a good talk"](https://pubmed.ncbi.nlm.nih.gov/19854123/) which is short and nice to read.
 
 ### Elevator statements
 
