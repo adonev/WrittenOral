@@ -41,5 +41,13 @@ _'Condensing a complex research project into a pithy abstract is no simple task,
 Prepare a 2-3min elevator talk. Choose your topic (e.g., your own research, field of math) and audience. Try one more specialized and one less specialized audience (e.g., a colleague and a neighbor). Present in class for comment.
 
 
+# Schedule changes/notes
 
+Wednesday March 1st class is cancelled because I will be at the SIAM CSE meeting
+
+Wednesday March 15th is spring break so no class
+
+The class on Wed March 29th will most likely have to be moved to Monday March 27th 3-4pm
+
+Last class will be on Wednesday May 10th
 
