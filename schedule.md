@@ -20,7 +20,11 @@ Hand in writing homework by email to donev at cims, on the day (but before the c
 
 Writing a talk is covered in Chapter 9 in the textbook by Higham. Also look at these tips on the [David Attenborough style of scientific presentation from Will Ratcliff](Resources/David-Attenborough.pdf). Watch it in action in this [5-minute lecture](https://www.youtube.com/watch?v=jVGHr6MHapo) from Ratcliff.
 
-Aram-Alexandre will give a practice talk on 2/8, and Hassan will do the same on 2/15.
+### Talks:
+
+1. (2/8) Aram-Alexandre, "Can the mathematics of moving dirt predict genomic trajectories?"
+2. Hassan, TBD.
+3. Mariya, TBD.
 
 ### Pre-class materials
 
@@ -32,6 +36,8 @@ Aram-Alexandre will give a practice talk on 2/8, and Hassan will do the same on 
 ### Post-class materials
 
 As an alternative to my lecture, see this talk by [Uri Alon](https://www.weizmann.ac.il/mcb/UriAlon/): [part I](https://www.youtube.com/watch?v=5OFAhBw0OXs) (the fire alarm will remind you of Courant...), [part II](https://www.youtube.com/watch?v=Fg_Bn8k0uaQ), [part III](https://www.youtube.com/watch?v=zYsHxNiPg7M), [part IV](https://www.youtube.com/watch?v=OhnSSjQCm4c), [part V](https://www.youtube.com/watch?v=FYkdzZgCX4M), [part VI](https://www.youtube.com/watch?v=y-fhwNa7fnQ). There is also an associated article ["How to give a good talk"](https://pubmed.ncbi.nlm.nih.gov/19854123/) which is short and nice to read.
+
+The issue of how to choose a good colormap for plots that render 3D data as 2D images (in python), including a python tool to check how different types of color blindness (a much more common condition that most of us realize), check out the [cmocean project](https://matplotlib.org/cmocean/) and watch this [talk by Kristen Thyng](https://www.youtube.com/watch?v=o9KxYxROSgM).
 
 ### Elevator statements
 
