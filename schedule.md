@@ -16,7 +16,7 @@ See the [Resources Page](resources.md) for links to the books.
 
 Hand in writing homework by email to donev at cims, on the day (but before the class) for which it is listed as homework.
 
-## (2/1, 2/8, 2/15) [Basic oral presentation skills](Resources/Lecture-MS-1.pdf)
+## (2/1, 2/8, 2/15) [Oral presentation skills](Resources/Lecture-Presentation.handout.pdf)
 
 Writing a talk is covered in Chapter 9 in the textbook by Higham. Also look at these tips on the [David Attenborough style of scientific presentation from Will Ratcliff](Resources/David-Attenborough.pdf). Watch it in action in this [5-minute lecture](https://www.youtube.com/watch?v=jVGHr6MHapo) from Ratcliff.
 
@@ -42,7 +42,7 @@ The issue of how to choose a good colormap for plots that render 3D data as 2D i
 ### Elevator statements
 
 Elevator "talks" are discussed on page 154 in Chapter 13 (The Big Picture) of the book Stylish Academic Writing. Here is what Sword has to say about it:
-_'Condensing a complex research project into a pithy abstract is no simple task, to be sure. An even greater challenge is to boil that abstract down into an “elevator statement”: the seemingly off-the-cuff but in fact brilliantly polished single-sentence sum- mary that you offer to the colleague who turns to you in the elevator at an academic conference and asks, “So what are you working on?” You have just a minute or two to respond: the time that it takes for the elevator to arrive at its destination floor...The secret ingredient of an effective elevator statement—or, for that matter, of a persuasive abstract, article, or book—is a strong thesis or argument. Both words are frequently heard in the freshman composition classroom but seldom in the research laboratory. However, identical principles apply in both venues: writers who put forth a bold, defensible claim are much more likely to generate engaging, persuasive prose than those who of- fer bland statements of fact with which no one could possibly disagree. In the sciences and social sciences, a strong thesis follows naturally from a compelling research question...'_
+_'Condensing a complex research project into a pithy abstract is no simple task, to be sure. An even greater challenge is to boil that abstract down into an “elevator statement”: the seemingly off-the-cuff but in fact brilliantly polished single-sentence summary that you offer to the colleague who turns to you in the elevator at an academic conference and asks, “So what are you working on?” You have just a minute or two to respond: the time that it takes for the elevator to arrive at its destination floor...The secret ingredient of an effective elevator statement—or, for that matter, of a persuasive abstract, article, or book—is a strong thesis or argument. Both words are frequently heard in the freshman composition classroom but seldom in the research laboratory. However, identical principles apply in both venues: writers who put forth a bold, defensible claim are much more likely to generate engaging, persuasive prose than those who offer bland statements of fact with which no one could possibly disagree. In the sciences and social sciences, a strong thesis follows naturally from a compelling research question...'_
 
 ### Assignment for 2/15
 
