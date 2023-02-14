@@ -23,7 +23,7 @@ Writing a talk is covered in Chapter 9 in the textbook by Higham. Also look at t
 ### Talks:
 
 1. (2/8) Aram-Alexandre, "Can the mathematics of moving dirt predict genomic trajectories?"
-2. Hassan, TBD.
+2. Hassan, "Does fine-scale ocean mixing contribute to melting of sea ice?"
 3. Mariya, TBD.
 
 ### Pre-class materials
