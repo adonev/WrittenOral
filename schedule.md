@@ -16,15 +16,15 @@ See the [Resources Page](resources.md) for links to the books.
 
 Hand in writing homework by email to donev at cims, on the day (but before the class) for which it is listed as homework.
 
-## (2/1, 2/8, 2/15) [Oral presentation skills](Resources/Lecture-Presentation.handout.pdf)
+## (2/1, 2/8, 2/15, 2/22) [Oral presentation skills](Resources/Lecture-Presentation.handout.pdf)
 
 Writing a talk is covered in Chapter 9 in the textbook by Higham. Also look at these tips on the [David Attenborough style of scientific presentation from Will Ratcliff](Resources/David-Attenborough.pdf). Watch it in action in this [5-minute lecture](https://www.youtube.com/watch?v=jVGHr6MHapo) from Ratcliff.
 
 ### Talks:
 
 1. (2/8) Aram-Alexandre, "Can the mathematics of moving dirt predict genomic trajectories?"
-2. Hassan, "Does fine-scale ocean mixing contribute to melting of sea ice?"
-3. Mariya, TBD.
+2. (2/15) Hassan, "Does mixing of the ocean at scales below 10km contribute to the melting of Arctic sea ice?"
+3. (2/22) Mariya, TBD.
 
 ### Pre-class materials
 
