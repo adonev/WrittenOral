@@ -24,7 +24,9 @@ Writing a talk is covered in Chapter 9 in the textbook by Higham. Also look at t
 
 1. (2/8) Aram-Alexandre, "Can the mathematics of moving dirt predict genomic trajectories?"
 2. (2/15) Hassan, "Does mixing of the ocean at scales below 10km contribute to the melting of Arctic sea ice?"
-3. (2/22) Mariya, TBD.
+3. (2/22) Mariya, "Friction directs the contraction of the cell skeleton."
+4. **No class on 3/1**
+5. (3/8) Ryan, TBD.
 
 ### Pre-class materials
 
@@ -44,18 +46,16 @@ The issue of how to choose a good colormap for plots that render 3D data as 2D i
 Elevator "talks" are discussed on page 154 in Chapter 13 (The Big Picture) of the book Stylish Academic Writing. Here is what Sword has to say about it:
 _'Condensing a complex research project into a pithy abstract is no simple task, to be sure. An even greater challenge is to boil that abstract down into an “elevator statement”: the seemingly off-the-cuff but in fact brilliantly polished single-sentence summary that you offer to the colleague who turns to you in the elevator at an academic conference and asks, “So what are you working on?” You have just a minute or two to respond: the time that it takes for the elevator to arrive at its destination floor...The secret ingredient of an effective elevator statement—or, for that matter, of a persuasive abstract, article, or book—is a strong thesis or argument. Both words are frequently heard in the freshman composition classroom but seldom in the research laboratory. However, identical principles apply in both venues: writers who put forth a bold, defensible claim are much more likely to generate engaging, persuasive prose than those who offer bland statements of fact with which no one could possibly disagree. In the sciences and social sciences, a strong thesis follows naturally from a compelling research question...'_
 
-### Assignment for 2/15
+### Assignment for 2/22
 
 Prepare a 2-3min elevator talk. Choose your topic (e.g., your own research, field of math) and audience. Try one more specialized and one less specialized audience (e.g., a colleague and a neighbor). Present in class for comment.
-
 
 # Schedule changes/notes
 
 Wednesday March 1st class is cancelled because I will be at the SIAM CSE meeting
 
-Wednesday March 15th is spring break so no class
+-Wednesday March 15th is spring break so no class.
+-The class on Wed March 29th will most likely have to be moved to Monday March 27th 3-4pm.
+-Last class will be on Wednesday May 10th.
 
-The class on Wed March 29th will most likely have to be moved to Monday March 27th 3-4pm
-
-Last class will be on Wednesday May 10th
 
