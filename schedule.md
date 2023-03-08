@@ -26,7 +26,6 @@ Writing a talk is covered in Chapter 9 in the textbook by Higham. Also look at t
 2. (2/15) Hassan, "Does mixing of the ocean at scales below 10km contribute to the melting of Arctic sea ice?"
 3. (2/22) Mariya, "Friction directs the contraction of the cell skeleton."
 4. **No class on 3/1**
-5. (3/8) Ryan, TBD.
 
 ### Pre-class materials
 
@@ -49,6 +48,18 @@ _'Condensing a complex research project into a pithy abstract is no simple task,
 ### Assignment for 2/22
 
 Prepare a 2-3min elevator talk. Choose your topic (e.g., your own research, field of math) and audience. Try one more specialized and one less specialized audience (e.g., a colleague and a neighbor). Present in class for comment.
+
+## (3/1) No class (SIAM CSE23 conference)
+
+## (3/15) Spring break (no class)
+
+## (3/8, 3/22) [Computer Tools: LaTex](Resources/Lecture-Tools.handout.pdf)
+
+We will discuss [computer tools for mathematical writing](Resources/Lecture-Tools.handout.pdf) in class. Also get the [AMS Short Math Guide for LaTex](http://tug.ctan.org/info/short-math-guide/short-math-guide.pdf).
+
+### Talks:
+
+1. (3/8) Ryan, The story of how Suki Manabe's work led us to the Paris Agreement.
 
 # Schedule changes/notes
 
