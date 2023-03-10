@@ -59,7 +59,8 @@ We will discuss [computer tools for mathematical writing](Resources/Lecture-Tool
 
 ### Talks:
 
-1. (3/8) Ryan, The story of how Suki Manabe's work led us to the Paris Agreement.
+1. (3/8) Ryan, "The story of how Suki Manabe's work led us to the Paris Agreement."
+2. (3/22) Vish, TBD.
 
 # Schedule changes/notes
 
