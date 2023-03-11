@@ -57,11 +57,12 @@ Prepare a 2-3min elevator talk. Choose your topic (e.g., your own research, fiel
 
 We will discuss [computer tools for mathematical writing](Resources/Lecture-Tools.handout.pdf) in class. Also get the [AMS Short Math Guide for LaTex](http://tug.ctan.org/info/short-math-guide/short-math-guide.pdf).
 
-To get movies to work in beamer, use the package
-__\usepackage{multimedia}__
+To get movies to work in beamer, use the package _multimedia_.
 To use an external movie file (makes the PDF much smaller, and updates to the external movie are seamless), use:
-__\movie[width=\textwidth,externalviewer]{\includegraphics[width=\textwidth]{StillFigure.png}}{Movies/Movie.mp4}__
-Note that it is a good idea to make a directory called Movies (can be a symbolic link) so the movies are in one place and easy to copy when needed. The default OS viewer for the specific movie file type will be used to open the movie. I recommend making VLC your default player. To insert an embedded movie (AFAIK this only works with the okular PDF viewer on ubuntu, in presentation mode), just remove the __externalviewer__.
+
+_\movie[width=\textwidth,externalviewer]{\includegraphics[width=\textwidth]{StillFigure.png}}{Movies/Movie.mp4}_
+
+Note that it is a good idea to make a directory called Movies (can be a symbolic link) so the movies are in one place and easy to copy when needed. The default OS viewer for the specific movie file type will be used to open the movie. I recommend making VLC your default player. To insert an embedded movie (AFAIK this only works with the okular PDF viewer on ubuntu, in presentation mode), just remove the _externalviewer_.
 
 ### Talks:
 
