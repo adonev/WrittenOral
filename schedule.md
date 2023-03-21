@@ -67,14 +67,13 @@ Note that it is a good idea to make a directory called Movies (can be a symbolic
 ### Talks:
 
 1. (3/8) Ryan, "The story of how Suki Manabe's work led us to the Paris Agreement."
-2. (3/22) Vish, TBD.
+2. (3/22) Vish, "How we can generate more stable proteins by learning from natural language."
 
 # Schedule changes/notes
 
-Wednesday March 1st class is cancelled because I will be at the SIAM CSE meeting
-
--Wednesday March 15th is spring break so no class.
--The class on Wed March 29th will most likely have to be moved to Monday March 27th 3-4pm.
+-March 1st class is cancelled because I will be at the SIAM CSE meeting.
+-March 15th is spring break so no class.
+-March 29th The class on is cancelled.
 -Last class will be on Wednesday May 10th.
 
 
