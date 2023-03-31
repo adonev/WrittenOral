@@ -64,20 +64,21 @@ _\movie[width=\textwidth,externalviewer]{\includegraphics[width=\textwidth]{Stil
 
 Note that it is a good idea to make a directory called Movies (can be a symbolic link) so the movies are in one place and easy to copy when needed. The default OS viewer for the specific movie file type will be used to open the movie. I recommend making VLC your default player. To insert an embedded movie (AFAIK this only works with the okular PDF viewer on ubuntu, in presentation mode), just remove the _externalviewer_.
 
+### Talks:
+
+1. (3/8) Ryan, "The story of how Suki Manabe's work led us to the Paris Agreement."
+2. (3/22) Vish, "How we can generate more stable proteins by learning from natural language."
+3. (4/5) Sonia, TBD.
+
 ### (4/12, 4/19, 4/26, 5/3, 5/10) [Structure of a paper](Lecture-Structure.pdf)
 
-We will begin going through some fundamentals of good scientific writing, starting from the structure of a paper. We will use the following two review articles as examples:
+We will begin going through some fundamentals of good scientific writing, starting from the structure of a paper. We will use the following exerts from articles as examples:
 
 1.  The Introduction and Outlook of an article by Prof. Miranda Holmes-Cerfon on "[Sticky-sphere clusters](https://arxiv.org/abs/1709.05138)."
 2.  The Introduction/Overview section I and sections I.1, I.2 and I.3 of this [review article on Randomized Linear Algebra](https://arxiv.org/abs/0909.4061).
 2.  First two pages of this "[Introduction to Regularity Structures](http://www.hairer.org/notes/Regularity.pdf)" by Martin Hairer. Observe the structure of the introduction and what different paragraphs do, and write down some notes.
 3.  First two pages of the complete article "[A theory of regularity structures](http://www.hairer.org/papers/Structure.pdf)" by Martin Hairier, published in [Invent. Math.](http://dx.doi.org/10.1007/s00222-014-0505-4) 2014 (Hairer won the Fields Medal for this work). Also take a look at the structure of the article and Section 1 in particular and take some notes of what you notice.
 4.  Look at the section headings / table of contents in this [preprint on Langevin simulations](https://www.biorxiv.org/content/early/2018/02/16/266619).
-
-### Talks:
-
-1. (3/8) Ryan, "The story of how Suki Manabe's work led us to the Paris Agreement."
-2. (3/22) Vish, "How we can generate more stable proteins by learning from natural language."
 
 # Schedule changes/notes
 
