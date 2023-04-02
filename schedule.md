@@ -78,7 +78,8 @@ We will begin going through some fundamentals of good scientific writing, starti
 2.  The Introduction/Overview section I and sections I.1, I.2 and I.3 of this [review article on Randomized Linear Algebra](https://arxiv.org/abs/0909.4061).
 2.  First two pages of this "[Introduction to Regularity Structures](http://www.hairer.org/notes/Regularity.pdf)" by Martin Hairer. Observe the structure of the introduction and what different paragraphs do, and write down some notes.
 3.  First two pages of the complete article "[A theory of regularity structures](http://www.hairer.org/papers/Structure.pdf)" by Martin Hairier, published in [Invent. Math.](http://dx.doi.org/10.1007/s00222-014-0505-4) 2014 (Hairer won the Fields Medal for this work). Also take a look at the structure of the article and Section 1 in particular and take some notes of what you notice.
-4.  Look at the section headings / table of contents in this [preprint on Langevin simulations](https://www.biorxiv.org/content/early/2018/02/16/266619).
+4.  The section headings / table of contents in this [preprint on Langevin simulations](https://www.biorxiv.org/content/early/2018/02/16/266619).
+5.  Abstract and first two sections (up to but not including "Theoretical framework", so basically up to page 3) of the article [The Predictive Validity of the GRE Across Graduate Outcomes](https://www.researchgate.net/profile/David-Feldon/publication/369412118_A_Meta-Analysis_of_Trends_Over_Time/links/641a2d4e92cfd54f841b62b5/A-Meta-Analysis-of-Trends-Over-Time.pdf) ((official article)[https://doi.org/10.1080/00221546.2023.2187177]).
 
 # Schedule changes/notes
 
