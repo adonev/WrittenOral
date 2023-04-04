@@ -68,9 +68,9 @@ Note that it is a good idea to make a directory called Movies (can be a symbolic
 
 1. (3/8) Ryan, "The story of how Suki Manabe's work led us to the Paris Agreement."
 2. (3/22) Vish, "How we can generate more stable proteins by learning from natural language."
-3. (4/5) Sonia, TBD.
+3. (4/5) Sonia, "How to Sample a Probability Distribution in Infinite Dimensions".
 
-### (4/12, 4/19, 4/26, 5/3, 5/10) [Structure of a paper](Lecture-Structure.pdf)
+### (4/12, 4/19, 4/26, 5/3, 5/10) [Structure of a paper](Resources/Lecture-Structure.handout.pdf)
 
 We will begin going through some fundamentals of good scientific writing, starting from the structure of a paper. We will use the following exerts from articles as examples:
 
