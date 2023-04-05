@@ -83,9 +83,9 @@ We will begin going through some fundamentals of good scientific writing, starti
 
 # Schedule changes/notes
 
--March 1st class is cancelled because I will be at the SIAM CSE meeting.
--March 15th is spring break so no class.
--March 29th The class on is cancelled.
--Last class will be on Wednesday May 10th.
+* March 1st class is cancelled because I will be at the SIAM CSE meeting.
+* March 15th is spring break so no class.
+* March 29th The class on is cancelled.
+* Last class will be on Wednesday May 10th.
 
 
