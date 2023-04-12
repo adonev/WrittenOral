@@ -21,7 +21,7 @@ This book is what I will base class on, to give you techniques to write elegantl
 ### Other Resources
 * _The Elements of Style,_ by Strunk and White.   
 A classic style manual, and a good way to revise English grammar. Freely available from a number of sources including [Project Gutenberg](http://www.gutenberg.org/ebooks/37134).
-* _Style: Lessons in Clarity and Grace,_ by Joseph M. Williams and Joseph Bizup. 12th Ed.   
+* [_Style: Lessons in Clarity and Grace](https://www.amazon.com/Style-Lessons-Joseph-M-Williams-ebook/dp/B084BY6R32/),_ by Joseph M. Williams and Joseph Bizup. 13th Ed.   
 Recommended because you will want to refer to this text over and over in the future.
 * _Handbook of Writing for the Mathematical Sciences,_ by Nicholas J. Higham.   
 Available [online](https://epubs.siam.org/doi/book/10.1137/1.9780898719550) at with an NYU connection. 
