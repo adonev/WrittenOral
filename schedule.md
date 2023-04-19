@@ -70,9 +70,9 @@ Note that it is a good idea to make a directory called Movies (can be a symbolic
 2. (3/22) Vish, "How we can generate more stable proteins by learning from natural language."
 3. (4/5) Sonia, "How to Sample a Probability Distribution in Infinite Dimensions".
 
-### (4/12, 4/19, 4/26, 5/3, 5/10) [Structure of a paper](Resources/Lecture-Structure.handout.pdf)
+### (4/12, 4/19, 4/26, 5/3) [Structure of a paper](Resources/Lecture-Structure.handout.pdf)
 
-We will begin going through some fundamentals of good scientific writing, starting from the structure of a paper. We will use the following exerts from articles as examples:
+We will begin going through some fundamentals of good scientific writing, starting from the structure of a paper. We will use the following samples from (mostly) review articles as examples:
 
 1.  The Introduction and Outlook of an article by Prof. Miranda Holmes-Cerfon on "[Sticky-sphere clusters](https://arxiv.org/abs/1709.05138)."
 2.  The Introduction/Overview section I and sections I.1, I.2 and I.3 of this [review article on Randomized Linear Algebra](https://arxiv.org/abs/0909.4061).
@@ -80,6 +80,14 @@ We will begin going through some fundamentals of good scientific writing, starti
 3.  First two pages of the complete article "[A theory of regularity structures](http://www.hairer.org/papers/Structure.pdf)" by Martin Hairier, published in [Invent. Math.](http://dx.doi.org/10.1007/s00222-014-0505-4) 2014 (Hairer won the Fields Medal for this work). Also take a look at the structure of the article and Section 1 in particular and take some notes of what you notice.
 4.  The section headings / table of contents in this [preprint on Langevin simulations](https://www.biorxiv.org/content/early/2018/02/16/266619).
 5.  Abstract and first two sections (up to but not including "Theoretical framework", so basically up to page 3) of the article [The Predictive Validity of the GRE Across Graduate Outcomes](https://www.researchgate.net/profile/David-Feldon/publication/369412118_A_Meta-Analysis_of_Trends_Over_Time/links/641a2d4e92cfd54f841b62b5/A-Meta-Analysis-of-Trends-Over-Time.pdf) ((official article)[https://doi.org/10.1080/00221546.2023.2187177]).
+
+### Talks:
+
+1. (5/3)  Mu-Hua Chien, TBD
+
+### (5/10) [Tips for better writing](Resources/Lecture-Language.handout.pdf)
+
+We will discuss some simple tips to improve your writing style / English usage.
 
 # Schedule changes/notes
 
