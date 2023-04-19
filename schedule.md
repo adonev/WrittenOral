@@ -83,7 +83,7 @@ We will begin going through some fundamentals of good scientific writing, starti
 
 ### Talks:
 
-1. (5/3)  Mu-Hua Chien, TBD
+1. (5/3)  Mu-Hua Chien, "Radiation Impacts on Hurricane-like Vortices in a Conditionally Unstable Atmosphere."
 
 ### (5/10) [Tips for better writing](Resources/Lecture-Language.handout.pdf)
 
